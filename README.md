@@ -12,4 +12,5 @@ Spatially resolved SED analysis with JWST and HST imaging data using the [**piXe
 * Step3_Fitting_spatially_resolved_SEDs_with_dense_basis.ipynb
 
 ![image1](stamp_sci_images.png)
+![image1](binmap_photo.png)
 ![image1](maps_properties_whl0137_z2.png)
