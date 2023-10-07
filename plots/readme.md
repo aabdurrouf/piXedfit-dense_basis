@@ -1,1 +1,1 @@
-Plots for diagnostics of fitting results, which include corner plot, SED plot, and SFH plot. Only plots for the first 2 bins are uploaded in this folder, the rest can be found [here](https://drive.google.com/drive/folders/1NppkCXAuDEz9shpl37MXu7uFd7vYCtHH?usp=sharing). 
+Plots for diagnostics of fitting results, which include corner plot, SED plot, and SFH plot. Only plots for the first 2 bins are uploaded in this folder, more plots can be found [here](https://drive.google.com/drive/folders/1NppkCXAuDEz9shpl37MXu7uFd7vYCtHH?usp=sharing). 
