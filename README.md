@@ -1,6 +1,6 @@
 # piXedfit-dense_basis
 
-Spatially resolved SED analysis with JWST and HST imaging data using the [**piXedfit**](https://pixedfit.readthedocs.io/en/latest/) and [**Dense Basis**](https://dense-basis.readthedocs.io/en/latest/). Image processing and pixel binning are carried out with **piXedfit** and fitting to the spatially resolved SEDs are performed with **Dense Basis**.
+Spatially resolved SED analysis with JWST and HST imaging data using the [**piXedfit**](https://pixedfit.readthedocs.io/en/latest/) and [**Dense Basis**](https://dense-basis.readthedocs.io/en/latest/). Image processing and pixel binning are carried out using **piXedfit** and fitting to the spatially resolved SEDs is performed using **Dense Basis**.
 
 ## Imaging data
 * JWST NIRCam images from GO 2282 (PI Coe)
