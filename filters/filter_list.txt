@@ -1,0 +1,12 @@
+hst_acs_f435w.txt
+hst_acs_f475w.txt
+hst_acs_f606w.txt
+hst_acs_f814w.txt
+jwst_nircam_f090w.txt
+jwst_nircam_f115w.txt
+jwst_nircam_f150w.txt
+jwst_nircam_f200w.txt
+jwst_nircam_f277w.txt
+jwst_nircam_f356w.txt
+jwst_nircam_f410m.txt
+jwst_nircam_f444w.txt 
